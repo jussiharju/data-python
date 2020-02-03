@@ -1,0 +1,7 @@
+group2@bigdata3:~$ hdfs dfs -ls /user/group2
+2019-11-30 12:55:01,762 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+
+group2@bigdata3:~$ hdfs dfs -ls /user/group2
+2019-11-30 13:21:10,744 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Found 1 items
+-rw-r--r--   1 group2 supergroup    8513429 2019-11-30 13:20 /user/group2/trump_tweets.csv

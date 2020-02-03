@@ -1,0 +1,1 @@
+vehicleClass;registrationDate;vehicleGroup;usageType;variant;version;deploymentDate;colour;numDoors;chassisType;cabinType;numSeats;weight;vehMaxLoad;regMaxLoad;length;width;height;fuelType;engineCapacity;power(kW);numCylinders;turbo;hybrid;hybridClass;make;model;transmission;numGears;name;brakeType;modelRegNumber;euroFuelType;municipality;co2;mileage(km);serialNumber;lineNumber
